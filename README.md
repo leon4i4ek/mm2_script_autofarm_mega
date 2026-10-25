@@ -1,2 +1,2 @@
-# mm2_script_autofarm_mega
-mega autofarm script
+SCRIPT IS ON BETA TEST,MAY BE BUGS.
+SCRIPT IS DOING ON MM2 ON ROBLOX.
